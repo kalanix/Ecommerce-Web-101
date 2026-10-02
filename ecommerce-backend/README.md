@@ -1,9 +1,7 @@
 ## Intro to the Project
-This is the backend for the [ecommerce-project](https://github.com/SuperSimpleDev/ecommerce-project).
+This is the backend for the [ecommerce-project](https://github.com/kalanix/Ecommerce-Web-101).
 - 95% of the code was generated with AI.
 
-## Video Tutorials
-**Part 1 - Create the Backend:** https://youtu.be/vBprybSmJs8
 
 ## Set up this backend
 1. Make sure you have NodeJS installed (version 22+). If not, [click here to install](https://nodejs.org/).
