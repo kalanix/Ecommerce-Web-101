@@ -17,24 +17,3 @@ Here's what to do:
 
 5. For the best learning experience, it's better to ask the AI about the error first and try to understand what it means. Then ask the AI to fix it.
 
-## Still Have Issues? Download My Code
-If you still cannot fix the issue, you can download a copy of my code and start from there.
-
-1. Open this link: https://github.com/SuperSimpleDev/ecommerce-backend-ai/commits/main/. This will give you a list of Git Commits I made in the video.
-
-2. In the video, go backwards and find the most recent Commit I made (before you ran into your issue).
-<img height="180" alt="Image" src="https://github.com/user-attachments/assets/b63bab30-e888-4590-8c6a-12f7e872a41c" />
-
-3. Find the Commit in the list of Git Commits and click "Browse repository at this point"<br>
-<img height="200" src="https://github.com/user-attachments/assets/2bbd3861-d8a9-4a24-8580-1510e8d6e5f3" />
-
-4. This will open the code at that Commit (at that point in time). Click `Code` > `Download ZIP`.<br>
-<img height="240" src="https://github.com/user-attachments/assets/b05ad279-64ec-4667-8832-f2f4d74f6be1" />
-
-5. Stop any other backends running on port 3000 (find the command line the other backend is running in and press Ctrl + C).
-
-6. Unzip the code you downloaded earlier and open the folder in VSCode.
-
-7. Open the Command Line by clicking `Terminal` > `New Terminal`.
-
-8. Run `npm install`, and run `node server.js`. Now you can start from this Commit in the video.
